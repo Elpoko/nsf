@@ -1,6 +1,7 @@
 {
   "name": "nsf",
   "version": "0.1.0",
+  "homepage": "https://nothingstartsfinished.com",
   "private": true,
   "dependencies": {
     "@chakra-ui/core": "^1.0.0-rc.7",
