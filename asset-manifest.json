@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7dbe264e.chunk.css",
-    "main.js": "/static/js/main.17d12db6.chunk.js",
-    "main.js.map": "/static/js/main.17d12db6.chunk.js.map",
+    "main.css": "/static/css/main.aeaf9397.chunk.css",
+    "main.js": "/static/js/main.477dff0b.chunk.js",
+    "main.js.map": "/static/js/main.477dff0b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.86f31fca.js",
     "runtime-main.js.map": "/static/js/runtime-main.86f31fca.js.map",
     "static/js/2.167e8b39.chunk.js": "/static/js/2.167e8b39.chunk.js",
@@ -10,16 +10,17 @@
     "static/js/3.c6eb4478.chunk.js": "/static/js/3.c6eb4478.chunk.js",
     "static/js/3.c6eb4478.chunk.js.map": "/static/js/3.c6eb4478.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7dbe264e.chunk.css.map": "/static/css/main.7dbe264e.chunk.css.map",
+    "static/css/main.aeaf9397.chunk.css.map": "/static/css/main.aeaf9397.chunk.css.map",
     "static/js/2.167e8b39.chunk.js.LICENSE.txt": "/static/js/2.167e8b39.chunk.js.LICENSE.txt",
-    "static/media/intercom-first-version.41d80fd8.png": "/static/media/intercom-first-version.41d80fd8.png",
+    "static/media/intercom-first-version.61253efa.png": "/static/media/intercom-first-version.61253efa.png",
+    "static/media/intercom-messenger.42703df4.png": "/static/media/intercom-messenger.42703df4.png",
     "static/media/intercom-product.96aad00a.png": "/static/media/intercom-product.96aad00a.png",
     "static/media/intercom-transparent-logo.6d2b49ae.svg": "/static/media/intercom-transparent-logo.6d2b49ae.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.86f31fca.js",
     "static/js/2.167e8b39.chunk.js",
-    "static/css/main.7dbe264e.chunk.css",
-    "static/js/main.17d12db6.chunk.js"
+    "static/css/main.aeaf9397.chunk.css",
+    "static/js/main.477dff0b.chunk.js"
   ]
 }
